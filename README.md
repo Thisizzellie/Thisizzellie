@@ -8,4 +8,3 @@
 Thisizzellie/Thisizzellie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Screenshot 2024-01-01 at 22 52 45](https://github.com/Thisizzellie/Thisizzellie/assets/86536588/aff4c3f1-838a-4b80-b6cf-7bdd065e80b0)
