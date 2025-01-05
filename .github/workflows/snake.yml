@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: "Thisiszellie" # Replace with your GitHub username
+          github_user_name: "Thisizzellie" # Correct GitHub username
 
       - name: Push the Snake Animation to GitHub
         run: |
