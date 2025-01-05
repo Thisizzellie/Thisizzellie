@@ -12,7 +12,7 @@ jobs:
       - name: Generate dinosaur animation
         uses: Platane/snk@v3
         with:
-          github_user_name: "<Thisizzellie>"
+          github_user_name: "<thisizzellie>"
           animal: "dinosaur"
           outputs: dist/dinosaur.svg
 
