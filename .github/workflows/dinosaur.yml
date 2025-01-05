@@ -1,4 +1,4 @@
-name: Generate Commit Dinosaur Animation
+name: Generate Commit Animation
 
 on:
   schedule:
@@ -9,17 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate dinosaur animation
+      - name: Generate commit animation
         uses: Platane/snk@v3
         with:
-          github_user_name: "<thisizzellie>"
-          animal: "dinosaur"
-          outputs: dist/dinosaur.svg
+          github_user_name: "Thisiszellie" # Replace with your username
 
-      - name: Push the dinosaur animation to GitHub
+      - name: Push the generated SVG to the repository
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "Generated dinosaur animation 🦖"
+          git commit -m "Generated commit animation 🦖"
           git push
+
