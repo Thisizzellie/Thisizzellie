@@ -1,2 +1,2 @@
-### 🦖 Commit Dinosaur Animation
-![Dinosaur Animation](https://github.com/Thisiszellie/Thisiszellie/blob/output/dist/dinosaur.svg)
+### 🐍 Commit Snake Animation
+![Snake Animation](https://github.com/Thisizzellie/Thisizzellie/blob/output/dist/snake.svg)
