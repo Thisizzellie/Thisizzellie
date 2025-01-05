@@ -1,0 +1,25 @@
+name: Generate Commit Dinosaur Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate dinosaur animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: "<Thisizzellie>"
+          animal: "dinosaur"
+          outputs: dist/dinosaur.svg
+
+      - name: Push the dinosaur animation to GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Generated dinosaur animation 🦖"
+          git push
