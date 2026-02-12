@@ -44,6 +44,6 @@ Snapshots is a lightweight tool that helps you generate app store ready screensh
 
 ## What I am working on
 
-• AI evaluation and certification tooling  
+• ML model evaluation and certification tooling  
 • Data pipelines, risk modelling, finance projects 
  
