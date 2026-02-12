@@ -36,7 +36,7 @@ Mytic App is a mobile product built for real operational use, available on iOS a
 ### Snapshots
 Product page: https://www.producthunt.com/products/storeshot?utm_source=other&utm_medium=social
 
-Indie Project to suppost Full stack Development
+Indie Project to suppost Full Stack Development
 
 Snapshots is a lightweight tool that helps you generate app store ready screenshots quickly without the pain of juggling multiple simulators and emulator setups. I built it because launching different phone sizes on the simulator and Android emulator was time consuming, and it also ate up computer space. The tool is designed to keep the workflow simple: take your screenshot, resize and crop cleanly, and get outputs that match the formats you need. The focus is speed, ease of use, and practical results, especially for indie builders who want to ship. It is a small product, but it saves real hours during launch week.
 
