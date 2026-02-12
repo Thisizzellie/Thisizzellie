@@ -1,8 +1,4 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://github.com/Thisizzellie/Thisizzellie/blob/main/dist/snake.svg" alt="Snake animation" />
-</p>
-
 <h1 align="center">Ellie Kulsuma</h1>
 
 <p align="center">
