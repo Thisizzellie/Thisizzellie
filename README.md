@@ -15,10 +15,9 @@ Programmer
 ### CreatingAI
 Website: https://creatingai.net
 
-AI Engineering
+AI Engineering 
 
-CreatingAI is my parent company and R and D studio for building responsible AI products that are efficient, reliable, and usable by real teams. CreatingAI is also where I run selective consultancy and build proofs of concept for clients who need rapid execution and clarity. The long term mission is to help organisations adopt AI safely, reduce wasted spend, and raise the bar for trustworthy AI delivery.
-
+CreatingAI is my parent company and R and D studio for building responsible AI products that are efficient, reliable, and usable by real teams. CreatingAI is also where I run selective consultancy and build proofs of concept for clients who need rapid execution and clarity. 
 ### AIVerifica
 Status: Private
 
