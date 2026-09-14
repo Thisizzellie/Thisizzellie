@@ -58,7 +58,7 @@ Outside engineering, I spend a lot of time exploring **mathematics, statistics, 
 
 ## ✦ project archive
 
-**TRUERO** · Data quality infrastructure for AI  
+**TRUERO** · Data quality infrastructure  
 <a href="https://truero.ai"><img src="https://img.shields.io/badge/ENTER-E7A6C5?style=for-the-badge"></a>
 
 **AIVERIFICA** · ML model evaluation  
