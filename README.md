@@ -1,48 +1,96 @@
-<!-- Profile Header -->
-<h1 align="center">Ellie Kulsuma</h1>
+<div align="center">
 
-<p align="center">
-Programmer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ellie%20Kulsuma&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20Programmer%20%7C%20Founder&descAlign=50&descAlignY=58&color=gradient&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://creatingai.net">CreatingAI</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=900&center=true&vCenter=true&width=700&lines=building+AI+systems...;training+models...;debugging+reality...;exploring+maths+%2B+physics...;shipping+things..." />
 
-<br/>
+<br>
 
-## Projects
+`AI ENGINEERING`　`PYTHON`　`MACHINE LEARNING`　`DATA`
+
+<br>
+
+[truero.ai](https://truero.ai)　·　[creatingai.net](https://creatingai.net)
+
+</div>
+
+<br>
+
+## current quests
+
+### Truero
+
+`AI Engineering` `Data Infrastructure`
+
+Building infrastructure for detecting, understanding and resolving data quality issues before they affect downstream systems and AI.
 
 ### CreatingAI
-Website: https://creatingai.net
 
-AI Engineering 
+`AI Engineering` `R&D`
 
-CreatingAI is my parent company and R and D studio for building responsible AI products that are efficient, reliable, and usable by real teams. CreatingAI is also where I run selective consultancy and build proofs of concept for clients who need rapid execution and clarity. 
+My AI R&D studio for building responsible AI products, prototypes and experimental systems.
+
 ### AIVerifica
-Status: Private
 
-AI Engineering 
+`AI Engineering` `Private`
 
-AIVerifica is an AI model evaluation and certification platform I am building to help teams assess models in a structured, evidence based way. 
+AI model evaluation and certification tooling for structured, evidence based assessment of machine learning systems.
 
-### Mytic App (Private Client)
-Link: https://apps.apple.com/gb/app/tic-mould-control/id6754640941
+### Mytic
 
-Full Stack Engineering 
+`Full Stack Engineering` `Client`
 
-Mytic App is a mobile product built for real operational use, available on iOS and Android. 
+Production mobile software built for real operational use.
 
 ### Snapshots
-Product page: https://www.producthunt.com/products/storeshot?utm_source=other&utm_medium=social
 
-Indie Project to suppost Full Stack Development
+`Indie Tool`
 
-Snapshots is a lightweight tool that helps you generate app store ready screenshots quickly without the pain of juggling multiple simulators and emulator setups. I built it because launching different phone sizes on the simulator and Android emulator was time consuming, and it also ate up computer space. The tool is designed to keep the workflow simple: take your screenshot, resize and crop cleanly, and get outputs that match the formats you need. The focus is speed, ease of use, and practical results, especially for indie builders who want to ship. It is a small product, but it saves real hours during launch week.
+A lightweight tool for generating app store ready screenshots without juggling multiple simulators and emulators.
 
-<br/>
+<br>
 
-## What I am working on
+## skill tree
 
-• ML model evaluation and certification tooling  
-• Data pipelines, risk modelling, finance projects 
+```text
+AI Engineering      █████████░
+Python              █████████░
+Machine Learning    ████████░░
+Data Engineering    ████████░░
+Full Stack          ███████░░░
+```
+
+<br>
+
+## currently exploring
+
+```text
+> machine learning
+> statistics
+> maths
+> physics
+> philosophy
+> finance
+```
+
+Most of my time goes into **coding and AI engineering**, particularly machine learning, data systems and understanding the mathematics behind intelligent systems.
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<br><br>
+
+### PLAYER STATUS
+
+`BUILDING`　`LEARNING`　`SHIPPING`
+
+<br>
+
+<sub>code → learn → question → repeat</sub>
+
+</div>
+
  
