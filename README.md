@@ -58,133 +58,42 @@ Outside engineering, I spend a lot of time exploring **mathematics, statistics, 
 
 ## ✦ project archive
 
-### TRUERO
+**TRUERO** · Data quality infrastructure for AI  
+<a href="https://truero.ai"><img src="https://img.shields.io/badge/ENTER-E7A6C5?style=for-the-badge"></a>
 
-`AI ENGINEERING` `DATA INFRASTRUCTURE`
+**AIVERIFICA** · ML model evaluation  
+<img src="https://img.shields.io/badge/PRIVATE-C8B8D8?style=for-the-badge">
 
-Building infrastructure for detecting, understanding and resolving data quality issues before they affect downstream systems and AI.
+**CREATINGAI** · AI R&D studio  
+<a href="https://creatingai.net"><img src="https://img.shields.io/badge/EXPLORE-D8C5B2?style=for-the-badge"></a>
 
-<a href="https://truero.ai">ENTER TRUERO →</a>
+**MYTIC** · Production mobile app  
+<a href="https://apps.apple.com/gb/app/tic-mould-control/id6754640941"><img src="https://img.shields.io/badge/APP_STORE-E7A6C5?style=for-the-badge&logo=apple&logoColor=white"></a>
 
-<br>
-
-### AIVERIFICA
-
-`AI ENGINEERING` `ML EVALUATION`
-
-AI model evaluation and tooling for structured, evidence based assessment of ML learning systems. 
-
-`PRIVATE BUILD`
-
-<br>
-
-### CREATINGAI
-
-`AI ENGINEERING` `R&D`
-
-My AI R&D studio and parent company for building responsible AI products, prototypes and client systems.
-
-<a href="https://creatingai.net">ENTER CREATINGAI →</a>
-
-<br>
-
-### MYTIC
-
-`FULL STACK ENGINEERING` `CLIENT BUILD`
-
-Production mobile application built for real operational use across iOS and Android.
-
-<a href="https://apps.apple.com/gb/app/tic-mould-control/id6754640941">VIEW MYTIC ON THE APP STORE →</a>
-
-<br>
-
-### SNAPSHOTS
-
-`INDIE BUILD` `DEVELOPER TOOL`
-
-A lightweight tool I built to generate app store ready screenshots without managing multiple simulators and emulators.
-
-<a href="https://www.producthunt.com/products/storeshot">VIEW SNAPSHOTS ON PRODUCT HUNT →</a>
-
-<br>
-
-## ✦ player state
-
-```text
-ELLIE.EXE
-
-CLASS          AI ENGINEER
-
-MAIN QUEST     BUILD INTELLIGENT SYSTEMS
-ACTIVE BUILD   TRUERO
-
-SHIPPED        MYTIC · SNAPSHOTS
-LAB            AIVERIFICA · CREATINGAI
-
-STUDYING       ML · MATHS · STATISTICS
-WANDERING      PHILOSOPHY · PHYSICS · ART
-
-MODE           BUILDING
-XP SOURCE      CURIOSITY
-```
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2800&pause=1200&color=E7A6C5&center=true&vCenter=true&width=700&lines=build+%E2%86%92+learn+%E2%86%92+question+%E2%86%92+repeat;curiosity+is+the+main+quest..." />
-
-<br>
-
-<sub>✦ build · learn · question · repeat ✦</sub>
-
-<br>
+**SNAPSHOTS** · App store screenshot generator  
+<a href="https://www.producthunt.com/products/storeshot"><img src="https://img.shields.io/badge/PRODUCT_HUNT-C8B8D8?style=for-the-badge&logo=producthunt&logoColor=white"></a>
 
 ## ✦ hacks & side quests
 
-A collection of hackathons, experiments and things I built or joined mostly because I was curious.
-
 ### AI Engine Quant Trading Hackathon · 2026
+`QUANT` `FINANCE` `AI`
 
-`QUANT` `ALGORITHMIC TRADING` `FINANCE`
-
-Top 100 finalist from 440+ participants.
-
-Executed 100+ live trades across crypto, FX, gold and silver while experimenting with systematic trading, risk management, position sizing, technical analysis and AI assisted market analysis.
-
-<br>
+Top 100 finalist from 440+ participants. Executed 100+ live trades across crypto, FX, gold and silver.
 
 ### GirlsWhoML · Oxford · 2025
+`AI` `MENTORING`
 
-`AI` `MENTORING` `SOCIAL GOOD`
-
-Mentored at the **Building Responsible AI for Social Good Hackathon**, organised by GirlsWhoML, Oxford Edge and Oxford University.
-
-<br>
+Mentored at the Responsible AI for Social Good Hackathon at Oxford.
 
 ### Spring ACT · 2024
+`TECH FOR GOOD` `MENTORING`
 
-`HACKATHON` `MENTORING` `TECH FOR GOOD`
-
-Mentored at the International Women's Day Hackathon focused on using technology to tackle global social challenges.
-
-<br>
-
-### more experiments loading...
-
-```text
-> quantitative finance
-> machine learning experiments
-> AI engineering
-> data systems
-> tiny tools
-> things I build because I got curious
-```
+Mentored at the International Women's Day Hackathon.
 
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2400&pause=1200&color=C8B8D8&center=true&vCenter=true&width=750&lines=side+quest+discovered...;experiment+%E2%86%92+learn+%E2%86%92+build;probably+building+something+unnecessary..." />
+<sub>✦ more side quests loading... ✦</sub>
 
 </div>
