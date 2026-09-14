@@ -191,4 +191,53 @@ XP SOURCE      CURIOSITY
 
 <sub>✦ build · learn · question · repeat ✦</sub>
 
+<br>
+
+## ✦ hacks & side quests
+
+A collection of hackathons, experiments and things I built or joined mostly because I was curious.
+
+### AI Engine Quant Trading Hackathon · 2026
+
+`QUANT` `ALGORITHMIC TRADING` `FINANCE`
+
+Top 100 finalist from 440+ participants.
+
+Executed 100+ live trades across crypto, FX, gold and silver while experimenting with systematic trading, risk management, position sizing, technical analysis and AI assisted market analysis.
+
+<br>
+
+### GirlsWhoML · Oxford · 2025
+
+`AI` `MENTORING` `SOCIAL GOOD`
+
+Mentored at the **Building Responsible AI for Social Good Hackathon**, organised by GirlsWhoML, Oxford Edge and Oxford University.
+
+<br>
+
+### Spring ACT · 2024
+
+`HACKATHON` `MENTORING` `TECH FOR GOOD`
+
+Mentored at the International Women's Day Hackathon focused on using technology to tackle global social challenges.
+
+<br>
+
+### more experiments loading...
+
+```text
+> quantitative finance
+> machine learning experiments
+> AI engineering
+> data systems
+> tiny tools
+> things I build because I got curious
+```
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2400&pause=1200&color=C8B8D8&center=true&vCenter=true&width=750&lines=side+quest+discovered...;experiment+%E2%86%92+learn+%E2%86%92+build;probably+building+something+unnecessary..." />
+
 </div>
