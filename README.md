@@ -20,7 +20,7 @@
 
 <br><br>
 
-<sub>MATHEMATICS · STATISTICS · PHILOSOPHY · PHYSICS · ART · FINANCE</sub>
+<sub>MATHEMATICS · STATISTICS · PHILOSOPHY · PHYSICS · ART · MATHEMATICAL FINANCE (QUANT)</sub>
 
 <br><br>
 
@@ -32,28 +32,27 @@
 CLASS        AI Engineer
 
 CRAFT        Machine Learning
-             Data Systems
-             Applied AI
+             Statistics
+             Applied AI 
              Full Stack Engineering
 
 TOOLS        Python
-             AI Systems
-             Data Engineering
-             Product Development
+             SQL
+             Typescript
 
 CURIOSITY    Mathematics
              Statistics
              Philosophy
              Physics
              Art
-             Finance
+             Quant Trading
 
 CURRENT      Building Truero
 ```
 
-My main focus is **coding and AI engineering**, particularly machine learning, data systems and the mathematics behind intelligent systems.
+My main focus is **coding**, particularly machine learning, data systems and the mathematics behind intelligent systems.
 
-Outside engineering, I spend a lot of time exploring **mathematics, statistics, philosophy, physics, art and finance**.
+Outside engineering, I spend a lot of time exploring **mathematics, statistics, philosophy, a bit of physics, a lot art and finance**.
 
 <br>
 
@@ -73,7 +72,7 @@ Building infrastructure for detecting, understanding and resolving data quality 
 
 `AI ENGINEERING` `ML EVALUATION`
 
-AI model evaluation and certification tooling for structured, evidence based assessment of machine learning systems.
+AI model evaluation and tooling for structured, evidence based assessment of ML learning systems. 
 
 `PRIVATE BUILD`
 
