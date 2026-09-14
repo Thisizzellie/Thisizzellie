@@ -83,7 +83,7 @@ Top 100 finalist from 440+ participants. Executed 100+ live trades across crypto
 ### GirlsWhoML · Oxford · 2025
 `AI` `MENTORING`
 
-Mentored at the Responsible AI for Social Good Hackathon at Oxford.
+Mentored at the Responsible AI for Social Good Hackathon at Oxford Uni.
 
 ### Spring ACT · 2024
 `TECH FOR GOOD` `MENTORING`
