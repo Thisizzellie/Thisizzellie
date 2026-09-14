@@ -108,59 +108,6 @@ A lightweight tool I built to generate app store ready screenshots without manag
 
 <br>
 
-## ✦ project portals
-
-<div align="center">
-
-<a href="https://truero.ai">
-<img src="https://img.shields.io/badge/TRUERO-392A40?style=for-the-badge" />
-</a>
-
-<a href="https://creatingai.net">
-<img src="https://img.shields.io/badge/CREATINGAI-49364D?style=for-the-badge" />
-</a>
-
-<a href="https://apps.apple.com/gb/app/tic-mould-control/id6754640941">
-<img src="https://img.shields.io/badge/MYTIC-60445B?style=for-the-badge" />
-</a>
-
-<a href="https://www.producthunt.com/products/storeshot">
-<img src="https://img.shields.io/badge/SNAPSHOTS-76566B?style=for-the-badge" />
-</a>
-
-</div>
-
-<br>
-
-## ✦ knowledge map
-
-```text
-AI ENGINEERING      Applied AI systems
-PYTHON              Core engineering language
-MACHINE LEARNING    Models · evaluation · experimentation
-DATA SYSTEMS        Validation · pipelines · quality
-FULL STACK          Product development
-STATISTICS          Applied analysis
-MATHEMATICS         Foundations behind intelligent systems
-```
-
-<br>
-
-## ✦ current studies
-
-```text
-> machine learning
-> statistics
-> mathematics
-> data systems
-> physics
-> philosophy
-> finance
-> art
-```
-
-<br>
-
 ## ✦ player state
 
 ```text
