@@ -47,7 +47,7 @@ CURIOSITY    Mathematics
              Art
              Quant Trading
 
-CURRENT      Building Truero
+CURRENT      Building Truero and other Engineering projects. 
 ```
 
 My main focus is **coding**, particularly machine learning, data systems and the mathematics behind intelligent systems.
